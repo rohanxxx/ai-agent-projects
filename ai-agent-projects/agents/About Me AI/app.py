@@ -9,7 +9,7 @@ import gradio as gradio
 load_dotenv(override=True)
 
 def push(text):
-    requests.post("https://ntfy.sh/fazlerabbi-aboutme", data=text)
+    requests.post("https://ntfy.sh/aboutmeai", data=text)
 
 def record_user_details(email, name="Name not provided", notes="not provided"):
     push(f"Recording {name} with email {email} and notes {notes}")
