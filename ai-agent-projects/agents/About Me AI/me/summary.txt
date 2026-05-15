@@ -1,2 +1,106 @@
-My name is Md Fazle Rabbi. I'm aspiring SWE and also interested in AI development. I'm originally from New York, United States of America.
-I love all foods types of new foods, but particularly Middle Eastern Lamb dishes, as for the dessert like to taste different kinds of cheese cake and mousse cakes.
+My name is Md Fazle Rabbi. I am an AI Engineer and Software Engineer based in the New York City Metropolitan Area.
+
+## Education
+- Georgia Institute of Technology — Master of Science, Computer Science & Robotics (May 2026 - December 2027) — currently enrolled
+- Columbia University in the City of New York — Bachelor of Science, Computer Science & Electrical Engineering (August 2022 - Graduated May 2024)
+- Fordham University — Bachelor of Science, Mathematics and Computer Science (August 2019 - Graduated May 2024)
+- COOP Careers Fellowship — Data Analytics (February 2025 - May 2025) Graduated May 2025
+- Thomas A Edison Career And Technical High School — High School Diploma, Cisco Networking (September 2015 - Graduated June 2019)
+
+## Summary
+I build production AI agents — and the systems that run them. Columbia CS + Electrical Engineering ('24). Georgia Tech MS CS currently in progress. 3 years shipping real systems across LLM agents, cloud infrastructure, REST APIs, and ML research.
+
+## What I'm building right now
+→ Multi-agent systems with LangGraph, OpenAI Agents SDK, CrewAI,
+AutoGen, and MCP. Full-stack agentic apps with FastAPI backends,
+LLM tool-calling, live web search, and SSE token-level streaming.
+Production-grade, cloud-native, and shipped.
+Recent work:
+→ Agentic AI Chatbot — FastAPI + LangGraph + GPT-4o with Tavily
+web search and real-time SSE streaming
+→ Multi-Agent Engineering Team — CrewAI platform where
+frontend, backend, lead, and QA agents collaborate to ship code
+autonomously
+→ Financial Trading Simulation — AutoGen + MCP agents that read
+SEC filings, check live prices, and make autonomous trade decisions
+
+## Recent Projects
+Menu Interpreter:
+- A web application that customizes the menu search experience for users by processing food menus based off the user’s personal needs. 
+- Uses an algorithm based on ChatGPT-3.5 to automatically match cuisine ingredients with user’s recorded eating preferences while ensuring user safety through allergy alerts. 
+- Utilized AWS Web Services including S3, API Gateway, Amazon Cognito, Amazon RDS, OpenSearch, AWS Textract, Lambda, DynamoDB, etc.
+Skills: Amazon S3 · Amazon Lex · rekognition · API Gateways
+Link: https://github.com/rohanxxx/menu-interpreter
+Demo Video Link: https://www.youtube.com/watch?v=o2SDX5g4kAM
+
+Dining Concierge Assistant:
+- A serverless, microservice driven web application that includes a Dining Concierge chatbot that sends restaurant suggestions given a set of preferences from a conversation.
+- Utilized AWS Web Services including AWS S3 Bucket, lambda functions, Amazon API Gateway, ElasticSearch, and Amazon Lex to build and deploy application.
+- Utilized Yelp API to collect 5,000+ random restaurants from across Manhattan.
+- A serverless, microservice driven web application that includes a Dining Concierge chatbot that sends restaurant suggestions given a set of preferences from a conversation. - Utilized AWS Web Services including AWS S3 Bucket, lambda functions, Amazon API Gateway, ElasticSearch, and Amazon Lex to build and deploy application. - Utilized Yelp API to collect 5,000+ random restaurants from across Manhattan.
+Skills: AWS Lambda · Python (Programming Language) · JavaScript · Amazon S3 · Amazon Lex
+Link: https://github.com/rohanxxx/diningConcierege
+
+
+Console Game: A Game Of A Pig
+- Created a C++ compiler game that is similar to an online version of the game between a human and a computer player.
+- In the game, the human player turn reads in user input to determine if the die needs to be rolled again, while the computer player rolls the die three times automatically.
+- Utilized object-oriented programming (encapsulation, inheritance, and polymorphism) to create an effective way to incorporate all rules and aspects of "A Game Of Pig" and the different operations between human and computer player.
+Skills: Linux · Object-Oriented Programming (C++)
+Link: https://github.com/rohanxxx/A-Game-Of-A-Pig
+
+## Experience
+Columbia University Irving Medical Center — Undergraduate Research Assistant (September 2023 - May 2024): 
+- Engineered a k-NN classification pipeline in Python over UV spectral data from smartphone RGB sensors, delivering 10% accuracy improvement over Logistic Regression and Random Forest baselines
+- Benchmarked 5 ML models with rigorous test coverage and authored the comparative analysis that became the lab's definitive model selection reference
+- Contributed to a privacy-preserving iOS application for clinical data collection, with focus on UX and secure data handling
+
+Fordham University — Teaching Assistant, Grader, Tutor (September 2021 - December 2023):
+- Mentored 100+ undergraduates across CS I & II, Data Structures, and Computer Algorithms through labs, office hours, and 1:1 sessions over 2+ years
+- Specialized in DSA (C++), Computer Organization (Assembly), and algorithmic problem-solving
+- Delivered structured, actionable written feedback on upper-level coursework across multiple concurrent sections
+
+Fordham University — User Support Assistant (February 2022 - March 2023): 
+- Resolved 10+ EasyVista tickets weekly supporting faculty and staff with end-user computing and desktop applications
+- Set up, installed, and troubleshot classroom technology and software across the university
+- Audited classroom infrastructure for compliance and tracked equipment to maintain operational efficiency
+
+Guardian Life Insurance Company — Product Technology Intern (June 2023 - August 2023): 
+- Shipped a production RESTful API in Java/Spring Boot for member and policy data across the disability & absence product line — drove 30% response-time reduction through architectural optimization
+- Authored Swagger UI documentation adopted as the engineering team standard for API onboarding
+- Enforced CI/CD and Git version-control standards via Bitbucket across the engineering team
+
+National Science Foundation (NSF) — Summer Undergraduate Research Assistant (June 2021 - August 2021): 
+- Improved a Distributed Compressed Sensing (DCS) image recovery algorithm in MATLAB by 15% via hyperparameter tuning under Professor Mohammad Rostami (USC)
+- Authored and presented original research at the 2021 REU Symposium hosted by IEEE Big Data
+- Paper Publication Link: https://arxiv.org/pdf/2108.04355
+
+Creative Art Works — Digital Editor & Videographer (July 2018 - August 2018) : 
+- Developed and executed effective digital and social media campaigns for a small non-profit organization by collaborating closely with the digital marketing team. 
+- Created, edited, and filmed various promotional visual content to boost the organization's visibility. Additionally, I gained proficiency in Adobe Premiere Pro CC, Canon TI6, and GarageBand through essential training.
+
+## Top Skills
+LangGraph, Agentic AI Development, Python, C, C++, FastAPI, AWS, Java/Spring Boot, LLM Tool-Calling, REST APIs, CI/CD
+
+## Languages
+- Bengali (Native or Bilingual)
+- Urdu (Limited Working)
+- Hindi (Limited Working)
+
+## Certifications
+- Cisco Certified Entry Networking Technician (CCENT)
+- CompTIA IT Fundamentals+
+- Engineering Virtual Program
+- Problem Solving (Basic)
+
+## Contact
+- Phone: 3477442215
+- Email: fazlerabbirohan@yahoo.com
+- LinkedIn: www.linkedin.com/in/rohanxxx
+- GitHub: github.com/rohanxxx
+
+## Personal
+I'm originally from New York, United States. I love trying all types of new foods, particularly Middle Eastern lamb dishes. For dessert, I enjoy different kinds of cheesecake and mousse cakes.
+
+## Open to
+AI Engineer, Software Engineer, Forward Deployed Engineer, Applied AI Engineer roles in NYC.
